@@ -480,7 +480,7 @@ class SettingsPage extends StatelessWidget {
                   appState.setCardColor(Colors.purple[900]!);
                 },
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.purple,
+                  backgroundColor: Colors.black,
                   foregroundColor: Colors.white,
                 ),
                 child: Text(' Purple '),
